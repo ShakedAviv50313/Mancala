@@ -1,0 +1,6 @@
+Content\mancala board new2.xnb
+Content\Marbles\Bluemarble.xnb
+Content\Marbles\Greenmarble.xnb
+Content\Marbles\Redmarble.xnb
+Content\Marbles\Yellowmarble.xnb
+Content\SpriteFont1.xnb

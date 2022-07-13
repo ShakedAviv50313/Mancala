@@ -1,0 +1,22 @@
+C:\Users\Shaked\Desktop\mancala\mancala\mancala\bin\x86\Debug\mancala.exe
+C:\Users\Shaked\Desktop\mancala\mancala\mancala\bin\x86\Debug\mancala.pdb
+C:\Users\Shaked\Desktop\mancala\mancala\mancala\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Shaked\Desktop\mancala\mancala\mancala\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Shaked\Desktop\mancala\mancala\mancala\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Shaked\Desktop\mancala\mancala\mancala\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Shaked\Desktop\mancala\mancala\mancala\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Shaked\Desktop\mancala\mancala\mancala\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Shaked\Desktop\mancala\mancala\mancala\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Shaked\Desktop\mancala\mancala\mancala\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Shaked\Desktop\mancala\mancala\mancala\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Shaked\Desktop\mancala\mancala\mancala\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Shaked\Desktop\mancala\mancala\mancala\obj\x86\Debug\mancala.csprojResolveAssemblyReference.cache
+C:\Users\Shaked\Desktop\mancala\mancala\mancala\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Shaked\Desktop\mancala\mancala\mancala\obj\x86\Debug\mancala.exe
+C:\Users\Shaked\Desktop\mancala\mancala\mancala\obj\x86\Debug\mancala.pdb
+C:\Users\Shaked\Desktop\mancala\mancala\mancala\bin\x86\Debug\Content\mancala board new2.xnb
+C:\Users\Shaked\Desktop\mancala\mancala\mancala\bin\x86\Debug\Content\Marbles\Bluemarble.xnb
+C:\Users\Shaked\Desktop\mancala\mancala\mancala\bin\x86\Debug\Content\Marbles\Greenmarble.xnb
+C:\Users\Shaked\Desktop\mancala\mancala\mancala\bin\x86\Debug\Content\Marbles\Redmarble.xnb
+C:\Users\Shaked\Desktop\mancala\mancala\mancala\bin\x86\Debug\Content\Marbles\Yellowmarble.xnb
+C:\Users\Shaked\Desktop\mancala\mancala\mancala\bin\x86\Debug\Content\SpriteFont1.xnb
